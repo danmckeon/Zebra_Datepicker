@@ -6,7 +6,7 @@
 
 [![npm](https://img.shields.io/npm/v/zebra_datepicker.svg)](https://www.npmjs.com/package/zebra_datepicker) [![Total](https://img.shields.io/npm/dt/zebra_datepicker.svg)](https://www.npmjs.com/package/zebra_datepicker) [![Monthly](https://img.shields.io/npm/dm/zebra_datepicker.svg)](https://www.npmjs.com/package/zebra_datepicker) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/zebra_datepicker/badge?style=rounded)](https://www.jsdelivr.com/package/npm/zebra_datepicker) [![License](https://img.shields.io/npm/l/zebra_datepicker.svg)](https://github.com/stefangabos/Zebra_Datepicker/blob/master/LICENSE.md)
 
-Zebra_Datepicker is a small yet and highly configurable date picker / time picker jQuery plugin, meant to enrich forms by adding the date/time picker functionality to them. This jQuery plugin will automatically add a calendar icon to the indicated input fields which, when clicked, will open the attached date picker. Users can easily jump between months and years due to the date picker's intuitive interface. The selected date will be entered in the input field using the date format of choice, configurable in the date picker's options.
+TEST TEST TEST Zebra_Datepicker is a small yet and highly configurable date picker / time picker jQuery plugin, meant to enrich forms by adding the date/time picker functionality to them. This jQuery plugin will automatically add a calendar icon to the indicated input fields which, when clicked, will open the attached date picker. Users can easily jump between months and years due to the date picker's intuitive interface. The selected date will be entered in the input field using the date format of choice, configurable in the date picker's options.
 
 ## Features
 
