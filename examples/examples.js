@@ -24,7 +24,7 @@ $(document).ready(function() {
     });
 
     $('#datepicker-range-start').Zebra_DatePicker({
-        direction: true,
+        direction: 0,
         pair: $('#datepicker-range-end')
     });
 
