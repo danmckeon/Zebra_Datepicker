@@ -32,38 +32,21 @@
 
     <body>
 
-        <div class="jumbotron">
-            <div class="container">
-                <h3><strong>7.</strong> Date ranges (sort of)</h3>
-
-                <p>The second date picker's starting date is the value of the first date picker + 1</p>
-
-                <pre class="brush:js">
-                $('#datepicker-range-start').Zebra_DatePicker({
-                    direction: true,
-                    pair: $('#datepicker-range-end')
-                });
-
-                $('#datepicker-range-end').Zebra_DatePicker({
-                    direction: 1
-                });
-                </pre>
-
-                <div class="well">
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <input id="datepicker-range-start" type="text" class="form-control" data-zdp_readonly_element="false">
-                        </div>
-                        <div class="col-sm-3">
-                            <input id="datepicker-range-end" type="text" class="form-control" data-zdp_readonly_element="false">
-                        </div>
+        <div>
+            <div class="well">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <input id="datepicker-range-start" type="text" class="form-control" data-zdp_readonly_element="false">
+                    </div>
+                    <div class="col-sm-3">
+                        <input id="datepicker-range-end" type="text" class="form-control" data-zdp_readonly_element="false">
                     </div>
                 </div>
+            </div>
 
-                <a name="date-formats"></a>
-                <div class="top">
-                    <a href="#top" class="small">⯅ To the top</a>
-                </div>
+            <a name="date-formats"></a>
+            <div class="top">
+                <a href="#top" class="small">⯅ To the top</a>
             </div>
         </div>
 
