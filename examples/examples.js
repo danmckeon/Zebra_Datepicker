@@ -29,7 +29,7 @@ $(document).ready(function() {
     });
 
     $('#datepicker-range-end').Zebra_DatePicker({
-        direction: 1
+        direction: 0
     });
 
     $('#datepicker-formats').Zebra_DatePicker({
