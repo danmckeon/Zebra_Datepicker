@@ -25,12 +25,10 @@ $(document).ready(function() {
 
     $('#datepicker-range-start').Zebra_DatePicker({
         direction: 0,
-        fastNavigation: true,
         pair: $('#datepicker-range-end')
     });
 
     $('#datepicker-range-end').Zebra_DatePicker({
-        fastNavigation: true,
         direction: 0
     });
 
